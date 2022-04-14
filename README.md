@@ -29,7 +29,7 @@ The following image shows a wireframe that depicts the web application's appeara
 ## Screenshot
 Below is a screenshot of my completed wireframe
 
-![CSS Snippet Wireframe Cheatsheet](images/CSS%20Snippet%20Cheatsheet%20Wireframe.png)
+![CSS Snippet Wireframe Cheatsheet](./Images/01-wireframe-form-completed.png)
 
 ## 💡 Hints
 
